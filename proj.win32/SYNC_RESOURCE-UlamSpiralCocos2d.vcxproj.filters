@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\canab\source\repos\UlamSpiralCocos2d\proj.win32\CMakeFiles\dd354fc637ef4494161bb2a3d4616528\SYNC_RESOURCE-UlamSpiralCocos2d.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\canab\source\repos\UlamSpiralCocos2d\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\canab\source\repos\UlamSpiralCocos2d\proj.win32\CMakeFiles\SYNC_RESOURCE-UlamSpiralCocos2d" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{0246A2AE-550D-368B-82E2-83AD74299CE4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
